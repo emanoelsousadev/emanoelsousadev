@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;Automa%C3%A7%C3%A3o+de+Processos;REST+APIs+%7C+Firebase+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+todos+os+dias"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;Automa%C3%A7%C3%A3o+de+Processos;REST+APIs+%7C+Firebase+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+todos+os+dias"/>
 
 </div>
 
@@ -14,10 +14,28 @@
 
 # 🧠 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em backend, automação de processos e desenvolvimento de APIs REST  
-⚙️ Experiência com sistemas internos corporativos, integrações com APIs e modelagem de dados  
-🚀 Atualmente aprofundando conhecimentos em Java, Spring Boot, arquitetura backend e boas práticas de software  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por backend, automação e arquitetura de sistemas.  
+
+💻 Comecei programando através do desenvolvimento web e rapidamente passei a me interessar pela lógica por trás das aplicações, integrações entre sistemas e automação de processos reais.  
+
+⚙️ Tenho experiência com desenvolvimento de sistemas internos corporativos utilizando Python, Flask, Firebase e integrações com APIs externas.  
+
+🚀 Atualmente focado em aprofundar conhecimentos em Java, Spring Boot, arquitetura backend, modelagem de dados e boas práticas de desenvolvimento de software.  
+
+🧩 Gosto de resolver problemas relacionados à automação, organização de dados, integrações e construção de APIs escaláveis.
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-Avançando-00F7FF?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-REST%20APIs-00F7FF?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20Backend-Estudos-00F7FF?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Aprendizado-00F7FF?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -62,27 +80,56 @@
 
 ---
 
-# 🚀 Projetos em destaque
+# 🐍 Contribution Snake
 
-### 💰 Sistema Financeiro Inteligente
-> Sistema financeiro com backend em Java + Spring Boot, integração com IA e automação via Telegram Bot.
+<div align="center">
 
-- API REST com Spring Boot
-- PostgreSQL + Hibernate
-- Integração com Claude API
-- Dashboard financeiro
-- Arquitetura modular
+![Snake animation](https://github.com/emanoelsousadev/emanoelsousadev/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-### 🤖 Sistema Corporativo de Automação
-> Sistema interno desenvolvido para automação de processos e centralização de dados.
+# 🚀 Projetos em destaque
 
+## 💰 Sistema Financeiro Inteligente
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
+> Sistema financeiro pessoal desenvolvido para estudo avançado de arquitetura backend, automação e integração com IA.
+
+### ⚙️ Tecnologias
+- Java + Spring Boot
+- PostgreSQL
+- Hibernate + JPA
+- Python + Telegram Bot
+- Integração com Claude API
+- Dashboard financeiro
+
+### 🔗 Repositório
+```txt
+Em desenvolvimento / privado
+```
+
+---
+
+## 🤖 Sistema Corporativo de Automação
+
+![Status](https://img.shields.io/badge/status-projeto%20corporativo-blue)
+
+> Sistema interno desenvolvido para automação de processos e centralização de dados corporativos.
+
+### ⚙️ Tecnologias
 - Python + Flask
 - Firebase Firestore
 - Google Sheets API
-- Auditoria e histórico de alterações
-- Dashboard responsivo
+- HTML5 + CSS3 + JavaScript
+- Controle de sessões e autenticação
+
+### 🔗 Repositório
+```txt
+Projeto privado corporativo
+```
 
 ---
 
@@ -90,7 +137,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/emanoel">
+<a href="https://www.linkedin.com/in/emanoel-sousa-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
