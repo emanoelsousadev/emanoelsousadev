@@ -28,10 +28,10 @@ Gosto de resolver problemas de automação, organização de dados e construçã
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-Avançando-00F7FF?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-REST%20APIs-00F7FF?style=for-the-badge)
-![Arquitetura](https://img.shields.io/badge/Arquitetura%20Backend-Estudos-00F7FF?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Aprendizado-00F7FF?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-7C3AED?style=for-the-badge&logo=springboot&logoColor=white)
+![Arquitetura Backend](https://img.shields.io/badge/Arquitetura%20Backend-7C3AED?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
