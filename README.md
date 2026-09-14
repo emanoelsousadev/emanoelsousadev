@@ -12,19 +12,19 @@
 
 ---
 
-# 🧠 Sobre mim
+# Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por backend, automação e arquitetura de sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por backend, automação e arquitetura de sistemas.
 
-☕ Atualmente trabalho com Java e Spring Boot, construindo APIs REST, modelando dados e aplicando boas práticas de arquitetura backend no dia a dia.
+Atualmente trabalho com Java e Spring Boot, construindo APIs REST, modelando dados e aplicando boas práticas de arquitetura backend no dia a dia.
 
-💻 Tenho também experiência anterior com sistemas internos corporativos em Python, Flask e Firebase, incluindo integrações com APIs externas.
+Tenho também experiência anterior com sistemas internos corporativos em Python, Flask e Firebase, incluindo integrações com APIs externas.
 
-🧩 Gosto de resolver problemas de automação, organização de dados e construção de APIs escaláveis.
+Gosto de resolver problemas de automação, organização de dados e construção de APIs escaláveis.
 
 ---
 
-# 📚 Atualmente estudando
+# Atualmente estudando
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-# ⚡ Stack Tecnológica
+# Stack Tecnológica
 
 <div align="center">
 
@@ -55,63 +55,31 @@
 
 ---
 
-# 📊 GitHub Analytics
+# Projetos em destaque
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelsousadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelsousadev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=emanoelsousadev&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/emanoelsousadev/emanoelsousadev/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🚀 Projetos em destaque
-
-## 🧵 Bot de Figurinhas para WhatsApp
+## Bot de Figurinhas para WhatsApp
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
 > Bot que recebe imagens e vídeos/GIFs pelo WhatsApp e responde com a figurinha (sticker) correspondente, convertida automaticamente para o formato WebP.
 
-### ⚙️ Tecnologias
+### Tecnologias
 - Java (servidor HTTP de conversão com ffmpeg)
 - Node.js + Baileys (integração com WhatsApp)
 - Arquitetura em dois serviços (bridge + conversor)
 
-### 🔗 Repositório
+### Repositório
 [emanoelsousadev/bot-fig](https://github.com/emanoelsousadev/bot-fig)
 
 ---
 
-## 💰 Sistema Financeiro Inteligente
+## Sistema Financeiro Inteligente
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 > Sistema financeiro pessoal desenvolvido para estudo avançado de arquitetura backend, automação e integração com IA.
 
-### ⚙️ Tecnologias
+### Tecnologias
 - Java + Spring Boot
 - PostgreSQL
 - Hibernate + JPA
@@ -119,34 +87,34 @@
 - Integração com Claude API
 - Dashboard financeiro
 
-### 🔗 Repositório
+### Repositório
 ```txt
 Em desenvolvimento / privado
 ```
 
 ---
 
-## 🤖 Sistema Corporativo de Automação
+## Sistema Corporativo de Automação
 
 ![Status](https://img.shields.io/badge/status-projeto%20corporativo-blue)
 
 > Sistema interno desenvolvido para automação de processos e centralização de dados corporativos.
 
-### ⚙️ Tecnologias
+### Tecnologias
 - Python + Flask
 - Firebase Firestore
 - Google Sheets API
 - HTML5 + CSS3 + JavaScript
 - Controle de sessões e autenticação
 
-### 🔗 Repositório
+### Repositório
 ```txt
 Projeto privado corporativo
 ```
 
 ---
 
-# 🌐 Contato
+# Contato
 
 <div align="center">
 
